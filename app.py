@@ -59,7 +59,11 @@ def repeat():
 @app.route("/deletemsgs", methods=['POST'])
 def delete():
     delete_messages()
-        
+
+@app.route('/')
+def hello_world():
+    return 'Hello Pepe!'
+       
 if __name__ == "__main__":	
     app.run()
     
