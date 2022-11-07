@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "retrochat-367617",
+  "private_key_id": "15bc13b998fef44a92011c45f641dcf5d6f1ba00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDO7KsWc+fnJQsu\nSD7YUEATjG9OtlbYmTd+tfFFJkU3mT1IfHTmifo6X327XakBDHzLNZse/P8HJV0V\ny3zASYB10erV79U7Fve3ULeuBSJs2NafgEf/xVALS3u5sWU0ylSSo3lXTLOAn8ow\nJC/kdEXlglTe+zCBpLFVMIrWhQ6dX39alvbu+jaSqweroCijQbBVPkHDYE2Vvpzz\ndXCTUar2N0jtQ1l3lJeXcBUrFTwHytnlZ7Ny/hUMsfa2lz3eQyA272FDzI4NHLQk\nWMvmE1vz6ZKTj9eKH9mzuClOQXL3Jw2rE0BhapnDE28s699TkisGUhkmubKwNNa3\ngTyhTd4FAgMBAAECggEAC6aTs33vLrqNOJvkvfU2xmL/2WS22xc1YrMH1Kbk+s5r\n/urTAi/+oM7Dm4sYevCjDiYEh+giy9o0tYdxjLoWu4uIN2d7kAopBG9NCEVNvOcw\nnmZwp1wKt7gWTUxJsIE75c3ChUHSUYmtrqw67hgF33hJIwztnD8TpQJIru9q9T1T\nPk/uLYp3F56WABklzMoP5UMeW/cEArBBDxGKd+086ImBc7Lhzc3GZpDsDpKfVtoO\nyCMzQD5Eyl1yKt9hjCqh+Fagah246LUJX9XWRzjSHiidDfgCjnaGgtoVOUYcPfMi\n8ZqwzH0wgO5XTjlcnJjeYxU1CbKywrrs6a4Xqe+QwQKBgQD75BFuAU/SHmK5QSqE\nvJd08yn0Y6r7tgGn4wnwj5I2U+xR2oirAgztBwLV5DjAfgn922GZK0+XTrOyvfc3\navw4SBw2k6TV6bgbRYfxDIBKYp4TOpYTr62t4l3nzbfCH+p5zN3vM4o7ndlMdL7i\nQSziYoplrJjVYU5VpqZkjgd8iQKBgQDSTNBtfeysLxEb3LZx9EW6HKHbYdU8HDda\n9MQyEnnh2TXgGGUa6qrBtlp45P40q+2zyYE4Jo2I7+2UAoIGe0/qXPQjSFuuQcih\n97UYqRLEfdGWep5tyxupBDvdFtqeGtpHOYiKipCEBEiwNWx6yQf5Iy8QYQhF98j5\ndja+iu8OnQKBgFxi0PW8627QkDsMKLEYjqBpU1j8eUjq/355KjseHW1pqIJ5GalH\nDkCdUq/qjdokIDwIi6pnFUEUr5n+TL75sVpfMGHgExQWLd1qyipiAGfH9dxtn3/G\n7neZUAHmFODRXemgd0H1cFzfT0TYiO5pIzJBHCuge0m/78BAaET3Rs2pAoGAD9yJ\nT+jSg/4czTwtapTg+XOVZaWQXrNGHY8eiSRJmxY18QwF/Cy86lVlp36mCbT5/bhy\nDZkizbRC+AnkYrbERUnzhAG+IHuHtWeoeg6ugrF2sGHZNzC9ilbuaPODU690zTBy\nsvhWhA6KqPeukeg9uLXFo/edlyFkQCSBZoe2FiUCgYBjbcIdh2IkAWZ33auBQjDp\n2JZk8DEyusZgUwOtJELD4wHQH17qcVKdFEuvoF6XDpD/lJLMcxzbIahV/S7mBVc3\nAeo7RGVtXihMmmLop4wKWbQNRNpICcf6DisFLUK66mZfea+E9KEzbe1no/6pBHp2\nActyFoRtzsO/53HdyolknQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-tts-sa@retrochat-367617.iam.gserviceaccount.com",
+  "client_id": "106483016093534092250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-tts-sa%40retrochat-367617.iam.gserviceaccount.com"
+}
