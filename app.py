@@ -1,4 +1,4 @@
-
+import os
 from dotenv import load_dotenv
 from flask import Flask, request
 
@@ -16,10 +16,9 @@ from whatsappBot import sendWspMessage
 load_dotenv()
 
 # Create Twilio client
-account_sid = 'ACfb5da8c1fbd6c6cb63e4b7b440e00719' 
-api_key = '275e181f34867d7661c684ff0cd66ca4'
-twilio_client = Client(account_sid, api_key)
-
+account_sid = os.environ['TWILIO_ACCOUNT_SID']
+auth_token = os.environ['TWILIO_AUTH_TOKEN']
+twilio_client = Client(account_sid, auth_token)
 saved_messages = []
 
 # Create Flask app web server
