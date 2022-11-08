@@ -16,8 +16,8 @@ from whatsappBot import sendWspMessage
 load_dotenv()
 
 # Create Twilio client
-account_sid = os.environ['TWILIO_ACCOUNT_SID']
-auth_token = os.environ['TWILIO_AUTH_TOKEN']
+account_sid = 'ACfb5da8c1fbd6c6cb63e4b7b440e00719'
+auth_token = '66d32123e47caab008ba3e59951a117c'
 twilio_client = Client(account_sid, auth_token)
 saved_messages = []
 
